@@ -1,0 +1,16 @@
+---
+name: Filter American Domains
+homepage: https://github.com/Life-Owl2217/ublacklist-us
+---
+*://*.tesla.com/*
+*://tesla.com/*
+*://*.teslamotors.com/*
+*://teslamotors.com/*
+*://*.shop.tesla.com/*
+*://shop.tesla.com/*
+*://*.energy.tesla.com/*
+*://energy.tesla.com/*
+*://*.forums.tesla.com/*
+*://forums.tesla.com/*
+*://*.investor.tesla.com/*
+*://investor.tesla.com/*
